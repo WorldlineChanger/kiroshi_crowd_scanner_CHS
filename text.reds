@@ -39,7 +39,7 @@ public class Text {
     public static func SEG_ATARI() -> String { return "塞加塔里"; }
     public static func TDS() -> String { return "海啸防卫系统"; }
     public static func AHI() -> String { return "光之重工"; }
-    public static func EBM() -> String { return "欧洲商业机械"; }
+    public static func EBM() -> String { return "欧洲商业机器公司"; }
     public static func IEC() -> String { return "国际电器公司"; }
     public static func MICROTECH() -> String { return "精密科技"; }
     public static func ZETATECH() -> String { return "泽塔科技"; }
@@ -50,8 +50,8 @@ public class Text {
     public static func CYPHIRE() -> String { return "天蓝生改"; }
     public static func DAKAI() -> String { return "达凯声效系统"; }
     public static func DYNALAR() -> String { return "黛纳拉科技"; }
-    public static func KENJIRI() -> String { return "谦治理科技"; }
-    public static func KIROSHI() -> String { return "歧路司光学"; }
+    public static func KENJIRI() -> String { return "检事理科技"; }
+    public static func KIROSHI() -> String { return "歧路司公司"; }
     public static func TTI() -> String { return "创伤小组"; }
     public static func MAF() -> String { return "美林、阿苏卡加与芬奇"; }
     public static func TOYOTA() -> String { return "丰田马达"; }
@@ -63,45 +63,47 @@ public class Text {
     public static func INFOCOMP() -> String { return "资富智库"; }
     public static func BAKENEKO() -> String { return "化猫"; }
 
+
+
     // Upbringing
-    public static func LVG_MOT_FAT_F() -> String { return "充满慈爱的父母将之抚养成人。 "; }
+    public static func LVG_MOT_FAT_F() -> String { return "充满爱的父母将之抚养成人。 "; }
     public static func LVG_MOT_FAT_M() -> String { return ""; }
 
-    public static func ADPT_LVG_HOM_F() -> String { return "被充满关爱的家庭所收养。 "; }
+    public static func ADPT_LVG_HOM_F() -> String { return "被充满爱的家庭所收养。 "; }
     public static func ADPT_LVG_HOM_M() -> String { return ""; }
 
     public static func LVG_GPRNTS_F() -> String { return "由疼爱她的祖父母抚养长大。 "; }
     public static func LVG_GPRNTS_M() -> String { return "由疼爱他的祖父母抚养长大。 "; }
 
-    public static func LVG_RLTIVS_F() -> String { return "一群富有爱心的亲戚将其扶养成人。 "; }
+    public static func LVG_RLTIVS_F() -> String { return "一群充满爱心的亲戚扶养成人。 "; }
     public static func LVG_RLTIVS_M() -> String { return ""; }
 
-    public static func TGT_NOMAD_F() -> String { return "在一群紧密团结的游牧民群体中成长。 "; }
+    public static func TGT_NOMAD_F() -> String { return "在一群紧密团结的游牧民中成长。 "; }
     public static func TGT_NOMAD_M() -> String { return ""; }
 
-    public static func TGT_MGTOWR_F() -> String { return "在巨型大楼的紧密连结的社区中成长。 "; }
+    public static func TGT_MGTOWR_F() -> String { return "在巨型大楼的紧密连结社区中成长。 "; }
     public static func TGT_MGTOWR_M() -> String { return ""; }
 
-    public static func ADPT_CRP_BRD_F() -> String { return "由奢豪的企业所培育成长。 "; } 
+    public static func ADPT_CRP_BRD_F() -> String { return "由豪华的企业所培育。 "; } 
     public static func ADPT_CRP_BRD_M() -> String { return ""; } 
 
     public static func UNCR_PRNTS_F() -> String { return "冷漠的双亲将之扶养成人。 "; }
     public static func UNCR_PRNTS_M() -> String { return ""; }
 
-    public static func ORD_HOME_F() -> String { return "在一个平凡的家庭中长大成人。 "; }
+    public static func ORD_HOME_F() -> String { return "在平凡的家庭中长大成人。 "; }
     public static func ORD_HOME_M() -> String { return ""; }
 
-    public static func HLCPT_PRNTS_F() -> String { return "被怪兽一般的家长抚养成人。 "; }
+    public static func HLCPT_PRNTS_F() -> String { return "由怪兽家长抚养成人。 "; }
     public static func HLCPT_PRNTS_M() -> String { return ""; }
 
-    public static func RGH_NOMAD_F() -> String { return "被一个粗鄙的游牧团体所收养。 "; }
+    public static func RGH_NOMAD_F() -> String { return "被粗鄙的游牧团体所收养。 "; }
     public static func RGH_NOMAD_M() -> String { return ""; }
 
-    public static func UNWLNG_GPRNTS_F() -> String { return "她被祖父母不情愿地扶养成人。 "; }
-    public static func UNWLNG_GPRNTS_M() -> String { return "他被祖父母不情愿地扶养成人。 "; }
+    public static func UNWLNG_GPRNTS_F() -> String { return "她被不情愿地祖父母扶养成人。 "; }
+    public static func UNWLNG_GPRNTS_M() -> String { return "他被不情愿地祖父母扶养成人。 "; }
 
-    public static func UNWLNG_RLTIVS_F() -> String { return "她被亲戚不情愿地扶养成人。 "; }
-    public static func UNWLNG_RLTIVS_M() -> String { return "他被亲戚不情愿地扶养成人。 "; }
+    public static func UNWLNG_RLTIVS_F() -> String { return "她被不情愿地亲戚扶养成人。 "; }
+    public static func UNWLNG_RLTIVS_M() -> String { return "他被不情愿地亲戚扶养成人。 "; }
 
     public static func MDCRE_FOSTER_F() -> String { return "被一户平凡的寄养家庭所收养。 "; }
     public static func MDCRE_FOSTER_M() -> String { return ""; }
@@ -115,26 +117,26 @@ public class Text {
     public static func SNGL_FAT_F() -> String { return "单亲爸爸抚养成人。 "; }
     public static func SNGL_FAT_M() -> String { return ""; }
 
-    public static func BD_HD_PRNTS_F() -> String { return "忙碌的父母长期缺乏陪伴的情况下长大。 "; }
+    public static func BD_HD_PRNTS_F() -> String { return "忙碌父母长期缺席的情况下长大。 "; }
     public static func BD_HD_PRNTS_M() -> String { return ""; }
 
-    public static func STRTS_NOPRNTS_F() -> String { return "她在街头小巷成长，不知父母为谁。 "; }
-    public static func STRTS_NOPRNTS_M() -> String { return "他在街头小巷中成长，不知父母为谁。 "; }
+    public static func STRTS_NOPRNTS_F() -> String { return "她在街头中成长，不知父母是谁。 "; }
+    public static func STRTS_NOPRNTS_M() -> String { return "他在街头中成长，不知父母是谁。 "; }
 
-    public static func SLD_BY_PRNTS_F() -> String { return "父母为了钱财利益将她卖给别人。 "; }
-    public static func SLD_BY_PRNTS_M() -> String { return "父母为了钱财利益将他卖给别人。 "; }
+    public static func SLD_BY_PRNTS_F() -> String { return "父母为了钱将她卖给别人。 "; }
+    public static func SLD_BY_PRNTS_M() -> String { return "父母为了钱将他卖给别人。 "; }
 
-    public static func TRD_FOR_CHEM_F() -> String { return "父母为了吸食毒品将她卖给别人。 "; }
-    public static func TRD_FOR_CHEM_M() -> String { return "父母为了吸食毒品将他卖给别人。 "; }
+    public static func TRD_FOR_CHEM_F() -> String { return "父母为了药物将她卖给别人。 "; }
+    public static func TRD_FOR_CHEM_M() -> String { return "父母为了药物将他卖给别人。 "; }
 
-    public static func PRNTS_CRSH_F() -> String { return "双亲均死于车祸。 "; }
+    public static func PRNTS_CRSH_F() -> String { return "双亲死于车祸。 "; }
     public static func PRNTS_CRSH_M() -> String { return ""; }
 
-    public static func MOT_ANSA_F() -> String { return "母亲有健忘症，已经不认得她了。 "; }
-    public static func MOT_ANSA_M() -> String { return "母亲有健忘症，已经不认得他了。 "; }
+    public static func MOT_ANSA_F() -> String { return "母亲有健忘症，不认得她。 "; }
+    public static func MOT_ANSA_M() -> String { return "母亲有健忘症，不认得他。 "; }
 
-    public static func FAT_ANSA_F() -> String { return "父亲有健忘症，已经不认得她了。 "; }
-    public static func FAT_ANSA_M() -> String { return "父亲有健忘症，已经不认得他了。 "; }
+    public static func FAT_ANSA_F() -> String { return "父亲有健忘症，不认得她。 "; }
+    public static func FAT_ANSA_M() -> String { return "父亲有健忘症，不认得他。 "; }
 
     public static func ABSV_FOSTER_F() -> String { return "在一户虐待孩童的寄养家庭下成长。 "; }
     public static func ABSV_FOSTER_M() -> String { return ""; }
@@ -145,7 +147,7 @@ public class Text {
     public static func ABON_CHILD_F() -> String { return "被遗弃的孩子。 "; }
     public static func ABON_CHILD_M() -> String { return ""; }
 
-    public static func VLNT_MGTWR_F() -> String { return "在巨型大楼内，充斥着暴力的环境下的黑暗角落中长大。 "; }
+    public static func VLNT_MGTWR_F() -> String { return "在巨型大楼内，暴力环境下的黑暗角落中长大。 "; }
     public static func VLNT_MGTWR_M() -> String { return ""; }
 
     public static func GRP_SCAVS_F() -> String { return "被一群清道夫抚养成人。 "; }
@@ -172,10 +174,10 @@ public class Text {
     public static func PAT_GNG_WRFR_F() -> String { return "父母于帮派斗争中丧生。 "; }
     public static func PAT_GNG_WRFR_M() -> String { return ""; }
 
-    public static func PAT_AVRG_CTZN_F() -> String { return "父母均是普通市民。 "; }
+    public static func PAT_AVRG_CTZN_F() -> String { return "父母是普通市民。 "; }
     public static func PAT_AVRG_CTZN_M() -> String { return ""; }
 
-    public static func PAT_WLTH_CTZN_F() -> String { return "父母均是有钱的市民。 "; }
+    public static func PAT_WLTH_CTZN_F() -> String { return "父母是有钱的市民。 "; }
     public static func PAT_WLTH_CTZN_M() -> String { return ""; }
 
     public static func MOT_UNID_F() -> String { return "母亲身分不明。 "; }
@@ -190,10 +192,10 @@ public class Text {
     public static func FAT_KLD_NCPD_F() -> String { return "父亲被NCPD杀害。 "; }
     public static func FAT_KLD_NCPD_M() -> String { return ""; }
 
-    public static func MOT_KLD_MXTC_F() -> String { return "母亲被暴恐机动队杀害。 "; }
+    public static func MOT_KLD_MXTC_F() -> String { return "母亲被镇静特勤组杀害。 "; }
     public static func MOT_KLD_MXTC_M() -> String { return ""; }
 
-    public static func FAT_KLD_MXTC_F() -> String { return "父亲被暴恐机动队杀害。 "; }
+    public static func FAT_KLD_MXTC_F() -> String { return "父亲被镇静特勤组杀害。 "; }
     public static func FAT_KLD_MXTC_M() -> String { return ""; }
 
     public static func MOT_POW_F() -> String { return "母亲是一名战俘。 "; }
@@ -238,10 +240,10 @@ public class Text {
     public static func FAT_DIED_ACC_F() -> String { return "父亲于一场事故中丧生。 "; }
     public static func FAT_DIED_ACC_M() -> String { return ""; }
 
-    public static func MOT_HIDING_F() -> String { return "母亲躲藏著。 "; }
+    public static func MOT_HIDING_F() -> String { return "母亲躲藏着。 "; }
     public static func MOT_HIDING_M() -> String { return ""; }
 
-    public static func FAT_HIDING_F() -> String { return "父亲躲藏著。 "; }
+    public static func FAT_HIDING_F() -> String { return "父亲躲藏着。 "; }
     public static func FAT_HIDING_M() -> String { return ""; }
 
     public static func MOT_MISSING_F() -> String { return "母亲失踪，可能已死。 "; }
@@ -305,7 +307,7 @@ public class Text {
     public static func LIVED_SHANTY_F() -> String { return "住在夜城的贫民窟。 "; }
     public static func LIVED_SHANTY_M() -> String { return ""; }
 
-    public static func LIVED_CRAP_TWNHME_F() -> String { return "住在夜城内脏乱的联排公寓。 "; }
+    public static func LIVED_CRAP_TWNHME_F() -> String { return "住在夜城内髒乱的联排公寓。 "; }
     public static func LIVED_CRAP_TWNHME_M() -> String { return ""; }
 
     public static func LIVED_RANCHO_HOUSE_F() -> String { return "住在兰求科罗纳多的破落房子。 "; }
@@ -426,22 +428,22 @@ public class Text {
     public static func RADICALIZED_F() -> String { return "网路上极端主义的激进份子。 "; }
     public static func RADICALIZED_M() -> String { return ""; }
 
-    public static func INTRST_IN_GUNS_F() -> String { return "对枪枝有浓厚的兴趣。 "; }
+    public static func INTRST_IN_GUNS_F() -> String { return "对枪枝有浓厚兴趣。 "; }
     public static func INTRST_IN_GUNS_M() -> String { return ""; }
 
-    public static func INTRST_IN_SWORDS_F() -> String { return "对刀剑有浓厚的兴趣。 "; }
+    public static func INTRST_IN_SWORDS_F() -> String { return "对刀剑有浓厚兴趣。 "; }
     public static func INTRST_IN_SWORDS_M() -> String { return ""; }
 
-    public static func INTRST_IN_CYBER_F() -> String { return "对神经机械装置有浓厚的兴趣。 "; }
+    public static func INTRST_IN_CYBER_F() -> String { return "对神经机械装置有浓厚兴趣。 "; }
     public static func INTRST_IN_CYBER_M() -> String { return ""; }
 
-    public static func ANTI_CORPO_FRM_F() -> String { return "加入反对企业的网路论坛。 "; }
+    public static func ANTI_CORPO_FRM_F() -> String { return "加入反对企业的网络论坛。 "; }
     public static func ANTI_CORPO_FRM_M() -> String { return ""; }
 
-    public static func HACK_SM_DB_F() -> String { return "入侵过小型企业的数据库。 "; }
+    public static func HACK_SM_DB_F() -> String { return "入侵小型企业的数据库。 "; }
     public static func HACK_SM_DB_M() -> String { return ""; }
 
-    public static func HACK_LG_DB_F() -> String { return "入侵过大型企业的数据库。 "; }
+    public static func HACK_LG_DB_F() -> String { return "入侵大型企业的数据库。 "; }
     public static func HACK_LG_DB_M() -> String { return ""; }
 
     public static func HACK_ICONIC_CORPO_F() -> String { return "入侵%corp%的数据库，并取得了机密数据。 "; }
@@ -456,11 +458,11 @@ public class Text {
     public static func READ_PULP_SCI_F() -> String { return "阅读了劣质的科幻书籍。 "; }
     public static func READ_PULP_SCI_M() -> String { return ""; }
     
-    public static func SCROLLING_BD_F() -> String { return "对超梦产生兴趣。 "; }
+    public static func SCROLLING_BD_F() -> String { return "对幻舞产生兴趣。 "; }
     public static func SCROLLING_BD_M() -> String { return ""; }
     
-    public static func WATCH_BD_F() -> String { return "她花了所有时间去观赏超梦。 "; }
-    public static func WATCH_BD_M() -> String { return "他花了所有时间去观赏超梦。 "; }
+    public static func WATCH_BD_F() -> String { return "她花了所有时间去观赏幻舞。 "; }
+    public static func WATCH_BD_M() -> String { return "他花了所有时间去观赏幻舞。 "; }
     
     public static func MANDARIN_LSSN_F() -> String { return "参加中文课程。 "; }
     public static func MANDARIN_LSSN_M() -> String { return ""; }
@@ -513,7 +515,7 @@ public class Text {
     public static func INTRST_BOTANY_F() -> String { return "对植物产生浓厚兴趣。 "; }
     public static func INTRST_BOTANY_M() -> String { return ""; }
 
-    public static func HMEBRW_BEER_F() -> String { return "学习如何自制啤酒。 "; }
+    public static func HMEBRW_BEER_F() -> String { return "学习如何自製啤酒。 "; }
     public static func HMEBRW_BEER_M() -> String { return ""; }
 
     public static func SYNTH_CHEMS_F() -> String { return "学习如何在家合成药物。 "; }
@@ -528,7 +530,7 @@ public class Text {
     public static func WORK_FRMHAND_F() -> String { return "曾在夜城外的农场当工人。 "; }
     public static func WORK_FRMHAND_M() -> String { return ""; }
 
-    public static func EXPLR_SEWER_F() -> String { return "探索并绘制了夜城的下水道。 "; }
+    public static func EXPLR_SEWER_F() -> String { return "探索并绘製了夜城的下水道。 "; }
     public static func EXPLR_SEWER_M() -> String { return ""; }
 
     public static func BRK_CORPO_SYSTEM_F() -> String { return "年轻安装了脑机面板，开始破坏公司系统。 "; }
@@ -565,7 +567,7 @@ public class Text {
     public static func JOB_WAGE_DEPT_F() -> String { return "开始在百货部门做领死薪水的工作。 "; }
     public static func JOB_WAGE_DEPT_M() -> String { return ""; }
 
-    public static func JOB_BOUNCER_F() -> String { return "在夜店担任保鑣。 "; }
+    public static func JOB_BOUNCER_F() -> String { return "在夜店担任保镖。 "; }
     public static func JOB_BOUNCER_M() -> String { return ""; }
 
     public static func JOB_HOMELESS_F() -> String { return "在街头乞讨。 "; }
@@ -598,7 +600,7 @@ public class Text {
     public static func JOB_CORPO_MANAGER_F() -> String { return "获得%corp%公司经理的位子。 "; }
     public static func JOB_CORPO_MANAGER_M() -> String { return ""; }
 
-    public static func JOB_CORPO_EXEC_F() -> String { return "获得%corp%公司高阶主管的位子。 "; }
+    public static func JOB_CORPO_EXEC_F() -> String { return "获得%corp%公司高级主管的位子。 "; }
     public static func JOB_CORPO_EXEC_M() -> String { return ""; }
 
     public static func JOB_DAY_LABOR_F() -> String { return "开始做临时工。 "; }
@@ -661,7 +663,7 @@ public class Text {
     public static func JOB_MAG_STAND_F() -> String { return "贩售杂志。 "; }
     public static func JOB_MAG_STAND_M() -> String { return ""; }
 
-    public static func JOB_BD_CRP_F() -> String { return "为%corp%公司担任超梦制作。 "; }
+    public static func JOB_BD_CRP_F() -> String { return "为%corp%公司担任幻舞制作。 "; }
     public static func JOB_BD_CRP_M() -> String { return ""; }
 
     // Adulthood
@@ -692,7 +694,7 @@ public class Text {
     public static func JOIN_NEW_BAND_F() -> String { return "加入一个新乐团。 "; }
     public static func JOIN_NEW_BAND_M() -> String { return ""; }
 
-    public static func COMPLETED_JOB_F() -> String { return "完成和事佬的工作，收获%eddies%欧元。 "; }
+    public static func COMPLETED_JOB_F() -> String { return "完成合事佬的工作，收穫%eddies%欧元。 "; }
     public static func COMPLETED_JOB_M() -> String { return ""; }
 
     public static func RUN_CHEMS_F() -> String { return "帮本地帮派运送药品。 "; }
@@ -722,10 +724,10 @@ public class Text {
     public static func LOST_JOB_F() -> String { return "她失去了工作。 "; }
     public static func LOST_JOB_M() -> String { return "他失去了工作。 "; }
 
-    public static func INDUSTRIAL_ACC_F() -> String { return "曾发生工安事故。 "; }
+    public static func INDUSTRIAL_ACC_F() -> String { return "曾发生工地安全事故。 "; }
     public static func INDUSTRIAL_ACC_M() -> String { return ""; }
 
-    public static func CODED_BOTNETS_F() -> String { return "制作同步的僵尸网路攻击%corp%公司的存取点，窃取了%eddies%欧元。 "; }
+    public static func CODED_BOTNETS_F() -> String { return "制作同步的僵尸网络攻击%corp%公司的存取点，窃取了%eddies%欧元。 "; }
     public static func CODED_BOTNETS_M() -> String { return ""; }
 
     public static func ROB_VENDOR_F() -> String { return "曾抢劫街头摊贩。 "; }
@@ -743,10 +745,10 @@ public class Text {
     public static func JOYTOY_CONSUMER_F() -> String { return "妓女顾客。 "; }
     public static func JOYTOY_CONSUMER_M() -> String { return ""; }
 
-    public static func BD_CONSUMER_F() -> String { return "超梦顾客。 "; }
+    public static func BD_CONSUMER_F() -> String { return "幻舞顾客。 "; }
     public static func BD_CONSUMER_M() -> String { return ""; }
 
-    public static func BD_ADDICT_F() -> String { return "超梦成癮者。 "; }
+    public static func BD_ADDICT_F() -> String { return "幻舞成瘾者。 "; }
     public static func BD_ADDICT_M() -> String { return ""; }
 
     public static func RELIC_ASPIRANT_F() -> String { return "文物渴望者。 "; }
@@ -758,14 +760,14 @@ public class Text {
     public static func BOUGHT_CYBER_F() -> String { return "购买神经机械植入物。 "; }
     public static func BOUGHT_CYBER_M() -> String { return ""; }
 
-    public static func TWO_AM_CLUB_F() -> String { return "第二修正法案俱乐部会员。 "; }
+    public static func TWO_AM_CLUB_F() -> String { return "第二修正案俱乐部会员。 "; }
     public static func TWO_AM_CLUB_M() -> String { return ""; }
 
-    public static func ROBOT_DEST_F() -> String { return "曾摧毁一台荒坂机器人 R 乙型。 "; }
+    public static func ROBOT_DEST_F() -> String { return "曾摧毁一台荒板机器人 R 乙型。 "; }
     public static func ROBOT_DEST_M() -> String { return ""; }
 
-    public static func CANCEL_TTI_F() -> String { return "她取消了抢救团队的保险。 "; }
-    public static func CANCEL_TTI_M() -> String { return "他取消了抢救团队的保险。 "; }
+    public static func CANCEL_TTI_F() -> String { return "她取消了创伤小组的保险。 "; }
+    public static func CANCEL_TTI_M() -> String { return "他取消了创伤小组的保险。 "; }
 
     public static func FILED_FRD_INS_F() -> String { return "提起欺诈性的保险索赔控诉。 "; }
     public static func FILED_FRD_INS_M() -> String { return ""; }
@@ -806,13 +808,13 @@ public class Text {
     public static func JUMP_TRAFFIC_F() -> String { return "每日穿越交通繁忙的行人穿越道。 "; }
     public static func JUMP_TRAFFIC_M() -> String { return ""; }
 
-    public static func BUILD_BOMB_F() -> String { return "与已入库的恐怖份子见面，同时利用废物处置条例与电子设备来制作脏弹。 "; }
+    public static func BUILD_BOMB_F() -> String { return "与已知恐怖份子见面，同时利用废物处置条例与电子设备来製作脏弹。 "; }
     public static func BUILD_BOMB_M() -> String { return ""; }
 
-    public static func EMAIL_GOV_F() -> String { return "不抱希望地撰写政策电子邮件给政府官员。 绝望的她删除了那没有送出但强而有力的宣言。 其信息被保留备份。 "; }
-    public static func EMAIL_GOV_M() -> String { return "不抱希望地撰写政策电子邮件给政府官员。 绝望的他删除了那没有送出但强而有力的宣言。 其信息被保留备份。 "; }
+    public static func EMAIL_GOV_F() -> String { return "撰写不抱希望的政策电邮给政府官员。 绝望地她删除那没有送出强而有力的宣言。 其资讯被保留备份。 "; }
+    public static func EMAIL_GOV_M() -> String { return "撰写不抱希望的政策电邮给政府官员。 绝望地他删除那没有送出强而有力的宣言。 其资讯被保留备份。 "; }
 
-    public static func FREE_TTI_F() -> String { return "签下干细胞嵌合体试验并接受了注射，成为一名针对人类的实验对象。 获得了一个月抢救团队保险的使用凭证。 "; }
+    public static func FREE_TTI_F() -> String { return "签下干细胞嵌合体试验并接受注射，成为针对人类的实验对象。 获得一个月创伤小组保险的使用凭证。 "; }
     public static func FREE_TTI_M() -> String { return ""; }
 
 }
